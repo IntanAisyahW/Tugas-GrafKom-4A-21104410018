@@ -2,7 +2,7 @@ function setup() {
   createCanvas(640, 480);
 }
 
-function draw() {S
+function draw() {
   background(81, 255, 31);
   fill(135, 206, 250); 
   let x = 200; 
