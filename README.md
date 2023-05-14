@@ -12,6 +12,6 @@
 
 |  |  |
 |--|--|
-| NIM | **nim** |
-| Nama Lengkap | **nama** |
+| NIM | 21104410018 |
+| Nama Lengkap | INTAN AISYAH WULANDARI |
 | Kelas | TI-4A |
